@@ -1,0 +1,13 @@
+name = "CritterPet"
+filename = "CritterPet 1.7.10 V33a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7e5abeadff24599968e25a325626bb0bcccc44c4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4721204
+project-id = 235608

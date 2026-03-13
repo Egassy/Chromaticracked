@@ -1,2 +1,61 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/archisections.pw.toml"
+hash = "2f582d3495576f24a026c72b6a6efe3bb58782c95a7cb4b0bcbfdc41c8312a8b"
+metafile = true
+
+[[files]]
+file = "mods/chromaticraft.pw.toml"
+hash = "daf0ff4b3d079735e85b423ade2e4992a7c39c9892047808eac614e40fe7fb89"
+metafile = true
+
+[[files]]
+file = "mods/condensedores.pw.toml"
+hash = "de0e0a03a58aed878a18c7238641dbfa9ae9d95e634a0f64e8add3802bad2b49"
+metafile = true
+
+[[files]]
+file = "mods/critterpet.pw.toml"
+hash = "78c8f16a2e2f2f48d501aa0c2947486b8d81af6ac958742b4dad7bdf4ceb3691"
+metafile = true
+
+[[files]]
+file = "mods/dragonapi.pw.toml"
+hash = "0692772b07a0a4a778336bc47fdd8859136b275e2e24ee6bbf99ec8917ca1ca6"
+metafile = true
+
+[[files]]
+file = "mods/electricraft.pw.toml"
+hash = "5f4cd762b33304a95b28ef969c7dbad44f48ff0446aa250510afa0a5dce6a288"
+metafile = true
+
+[[files]]
+file = "mods/geostrata.pw.toml"
+hash = "9d160dcc6d9f76ef9030c4602289a52f8e454d3af5cdaedcfa8fe8cedc66dfc7"
+metafile = true
+
+[[files]]
+file = "mods/loottweaks.pw.toml"
+hash = "0de92009469be946b98dab3d9cb1b3b2fc931171680bfa84eeee73d495c22b04"
+metafile = true
+
+[[files]]
+file = "mods/reactorcraft.pw.toml"
+hash = "f1b528464e00cc8849d3c4729485662cf1fcb36017b03def78bf360dfb0fc804"
+metafile = true
+
+[[files]]
+file = "mods/rotarycraft.pw.toml"
+hash = "d70eea85e5d4de6addb4e8987990ddb021ca66b5b68f0457c991bf04693ee17c"
+metafile = true
+
+[[files]]
+file = "mods/treeclimbing.pw.toml"
+hash = "ecc2f7e425e9ccfd2ab93fa3a3a875626434960cf270a2781f654346ad7ecab0"
+metafile = true
+
+[[files]]
+file = "mods/void-monster.pw.toml"
+hash = "786275a17ce203da6b4d351b103ca15dc1d6a35d24171a0611a71520882aac86"
+metafile = true

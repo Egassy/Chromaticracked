@@ -1,0 +1,13 @@
+name = "LootTweaks"
+filename = "LootTweaks 1.7.10 V33a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f0208cf5dcdb1da0c4ae465b530f45a249f0cd23"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4721196
+project-id = 309266
