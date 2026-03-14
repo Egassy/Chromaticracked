@@ -1299,6 +1299,11 @@ hash = "a979cfe0c5da4983086182892d7e4ffebddbdf053d3e531482c92a8340e8dace"
 metafile = true
 
 [[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "92f97f8e154f1b85fd41823813e74ba8806babbce79679445355b75547f610e2"
+metafile = true
+
+[[files]]
 file = "mods/critterpet.pw.toml"
 hash = "78c8f16a2e2f2f48d501aa0c2947486b8d81af6ac958742b4dad7bdf4ceb3691"
 metafile = true
@@ -1349,8 +1354,18 @@ hash = "9e973b867ed8fe486d21705ab9b73d133403c6a481ad118c78d3da5f3a0436c0"
 metafile = true
 
 [[files]]
+file = "mods/inventorybogosorter.pw.toml"
+hash = "2c50747f13e11a1aff5f42179c3101156214bdcc5d30bd118deafdbbaabe3ef5"
+metafile = true
+
+[[files]]
 file = "mods/loottweaks.pw.toml"
 hash = "0de92009469be946b98dab3d9cb1b3b2fc931171680bfa84eeee73d495c22b04"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "c849632fd2348967eb369eaecd93f65de371cd9110650f828f995a4929166ae3"
 metafile = true
 
 [[files]]
