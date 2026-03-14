@@ -26,13 +26,28 @@ hash = "de0e0a03a58aed878a18c7238641dbfa9ae9d95e634a0f64e8add3802bad2b49"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "a979cfe0c5da4983086182892d7e4ffebddbdf053d3e531482c92a8340e8dace"
+metafile = true
+
+[[files]]
 file = "mods/critterpet.pw.toml"
 hash = "78c8f16a2e2f2f48d501aa0c2947486b8d81af6ac958742b4dad7bdf4ceb3691"
 metafile = true
 
 [[files]]
+file = "mods/custom-player-models.pw.toml"
+hash = "6f9e7a79206d91973fbacd811c867522e677ec3bbb5a2a01574a21b6b24a1004"
+metafile = true
+
+[[files]]
 file = "mods/dragonapi.pw.toml"
 hash = "0692772b07a0a4a778336bc47fdd8859136b275e2e24ee6bbf99ec8917ca1ca6"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "9442cab9d8a6bf93eaaf900e1142683cb27d419d9a7eb250b169d6246cfc9f50"
 metafile = true
 
 [[files]]
@@ -46,8 +61,23 @@ hash = "caa3d0023b08b8b7152c4bb76614d585651cd05aae263df31e4c672783f59363"
 metafile = true
 
 [[files]]
+file = "mods/foxlib.pw.toml"
+hash = "6887a03bd972f2602e3215940db01af3316d23749ecf94b7a6eacc990a1a0e20"
+metafile = true
+
+[[files]]
 file = "mods/geostrata.pw.toml"
 hash = "9d160dcc6d9f76ef9030c4602289a52f8e454d3af5cdaedcfa8fe8cedc66dfc7"
+metafile = true
+
+[[files]]
+file = "mods/hats.pw.toml"
+hash = "d9f0ffbbc7e489a1729ea1db007cf589dc28495210a8640175dc415f26e2b65e"
+metafile = true
+
+[[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "9e973b867ed8fe486d21705ab9b73d133403c6a481ad118c78d3da5f3a0436c0"
 metafile = true
 
 [[files]]
@@ -73,6 +103,16 @@ metafile = true
 [[files]]
 file = "mods/rotarycraft.pw.toml"
 hash = "d70eea85e5d4de6addb4e8987990ddb021ca66b5b68f0457c991bf04693ee17c"
+metafile = true
+
+[[files]]
+file = "mods/skinport.pw.toml"
+hash = "79993b195eb166cd8a454a0d1e45403afd1119bf906d9a78c2616d0423d5356f"
+metafile = true
+
+[[files]]
+file = "mods/tails.pw.toml"
+hash = "3894f613ccd69834cafaad7c39816f35dc4af6e4deb91ed799a52e74a3fd129e"
 metafile = true
 
 [[files]]
