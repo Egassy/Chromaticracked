@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/applecore.pw.toml"
+hash = "a5836f08783eccabdf1f9fb42b5270b2cdd23dd8c1effba2ad6748da2b706f2d"
+metafile = true
+
+[[files]]
 file = "mods/archisections.pw.toml"
 hash = "2f582d3495576f24a026c72b6a6efe3bb58782c95a7cb4b0bcbfdc41c8312a8b"
 metafile = true
