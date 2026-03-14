@@ -16,6 +16,11 @@ hash = "daf0ff4b3d079735e85b423ade2e4992a7c39c9892047808eac614e40fe7fb89"
 metafile = true
 
 [[files]]
+file = "mods/codechickencore-unofficial.pw.toml"
+hash = "8c400824e9a308fe87e5f61445c19b85bd7f8a5fd9bda2dbd2fa7324579e0164"
+metafile = true
+
+[[files]]
 file = "mods/condensedores.pw.toml"
 hash = "de0e0a03a58aed878a18c7238641dbfa9ae9d95e634a0f64e8add3802bad2b49"
 metafile = true
@@ -48,6 +53,16 @@ metafile = true
 [[files]]
 file = "mods/loottweaks.pw.toml"
 hash = "0de92009469be946b98dab3d9cb1b3b2fc931171680bfa84eeee73d495c22b04"
+metafile = true
+
+[[files]]
+file = "mods/nei-addons.pw.toml"
+hash = "1f1b9809a0e8a144ea2428a67144256fbc9816f4a29a1878b4720558952ad391"
+metafile = true
+
+[[files]]
+file = "mods/notenoughitems-gtnh.pw.toml"
+hash = "a2fc13301e4c9bee524c9480d0c9cd2f8efa2b7d27343df9010454551148d215"
 metafile = true
 
 [[files]]
