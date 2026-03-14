@@ -1279,6 +1279,21 @@ hash = "2f582d3495576f24a026c72b6a6efe3bb58782c95a7cb4b0bcbfdc41c8312a8b"
 metafile = true
 
 [[files]]
+file = "mods/bibliocraft.pw.toml"
+hash = "348cdb59de511d7b3385418ceeaaf0332075d4e5edd9fd8f354f205c284bde3e"
+metafile = true
+
+[[files]]
+file = "mods/carpenters-blocks.pw.toml"
+hash = "a06f7789e0fd9aef2378f6000af1832e95407a0c854b30ba67d74d53a8146b8e"
+metafile = true
+
+[[files]]
+file = "mods/chisel.pw.toml"
+hash = "e05e261e4b7eae159f1deff4b9b436bcdfab8ee9f875d6dcf7f44764c136ea09"
+metafile = true
+
+[[files]]
 file = "mods/chromaticraft.pw.toml"
 hash = "daf0ff4b3d079735e85b423ade2e4992a7c39c9892047808eac614e40fe7fb89"
 metafile = true
@@ -1334,6 +1349,16 @@ hash = "caa3d0023b08b8b7152c4bb76614d585651cd05aae263df31e4c672783f59363"
 metafile = true
 
 [[files]]
+file = "mods/flatsigns.pw.toml"
+hash = "bbe94c4fe907b30ba18ee81d84ad38d7ab091cdae7ef8a9a576cf4e98cfbd96a"
+metafile = true
+
+[[files]]
+file = "mods/forge-multi-part.pw.toml"
+hash = "9681e0415a681994c0e6455828160ac82395fb48c1ccec3a1c5ff92af93c1be4"
+metafile = true
+
+[[files]]
 file = "mods/foxlib.pw.toml"
 hash = "6887a03bd972f2602e3215940db01af3316d23749ecf94b7a6eacc990a1a0e20"
 metafile = true
@@ -1354,6 +1379,11 @@ hash = "9e973b867ed8fe486d21705ab9b73d133403c6a481ad118c78d3da5f3a0436c0"
 metafile = true
 
 [[files]]
+file = "mods/inpurecore.pw.toml"
+hash = "cbd2ae31ad4e16f11ea040b7d124fa0aa7dc2d3ae3808af0fb63443926aeabb3"
+metafile = true
+
+[[files]]
 file = "mods/inventorybogosorter.pw.toml"
 hash = "2c50747f13e11a1aff5f42179c3101156214bdcc5d30bd118deafdbbaabe3ef5"
 metafile = true
@@ -1361,6 +1391,16 @@ metafile = true
 [[files]]
 file = "mods/loottweaks.pw.toml"
 hash = "0de92009469be946b98dab3d9cb1b3b2fc931171680bfa84eeee73d495c22b04"
+metafile = true
+
+[[files]]
+file = "mods/malisiscore.pw.toml"
+hash = "4b41a8eb5c73f765d22e35e9893f477bdd220903f3cf338bfa3151dfd56cd457"
+metafile = true
+
+[[files]]
+file = "mods/malisisdoors.pw.toml"
+hash = "6d781cd762ff20876b2624930258c8a63ec8a9a0826005c973842201729faf25"
 metafile = true
 
 [[files]]
