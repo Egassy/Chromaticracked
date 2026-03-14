@@ -36,6 +36,11 @@ hash = "5f4cd762b33304a95b28ef969c7dbad44f48ff0446aa250510afa0a5dce6a288"
 metafile = true
 
 [[files]]
+file = "mods/endercore.pw.toml"
+hash = "caa3d0023b08b8b7152c4bb76614d585651cd05aae263df31e4c672783f59363"
+metafile = true
+
+[[files]]
 file = "mods/geostrata.pw.toml"
 hash = "9d160dcc6d9f76ef9030c4602289a52f8e454d3af5cdaedcfa8fe8cedc66dfc7"
 metafile = true
@@ -63,4 +68,19 @@ metafile = true
 [[files]]
 file = "mods/void-monster.pw.toml"
 hash = "786275a17ce203da6b4d351b103ca15dc1d6a35d24171a0611a71520882aac86"
+metafile = true
+
+[[files]]
+file = "mods/waila-harvestability.pw.toml"
+hash = "995bb06d581518cba9d922ba23f2705a7b596b458ce0af1ba23d9c669da4221c"
+metafile = true
+
+[[files]]
+file = "mods/waila-plugins.pw.toml"
+hash = "eea4af056e9818a21b94eb400def3c0987396806bffc46e8aaedc610b2b846db"
+metafile = true
+
+[[files]]
+file = "mods/waila.pw.toml"
+hash = "1ce389a8d9488dd7d37490c1498d10412b7430b18cc0faa28f47afc9cf896b57"
 metafile = true
