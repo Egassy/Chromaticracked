@@ -1,0 +1,13 @@
+name = "Better Questing - Quest Book"
+filename = "questbook-3.0.0-1.7.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "203663a9498a88cafb3a4a52be8562874d742357"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2933973
+project-id = 242106
