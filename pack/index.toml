@@ -1509,6 +1509,11 @@ hash = "2efe15f652487360e8673eb80d8e565218c1bddbea5f4a22ae41a2fb8da7c675"
 metafile = true
 
 [[files]]
+file = "mods/modular-powersuits.pw.toml"
+hash = "2c20b6e0c5b00d176127f5689f830a2cce8be840340e61cdbb9d988cc4bce544"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "c849632fd2348967eb369eaecd93f65de371cd9110650f828f995a4929166ae3"
 metafile = true
@@ -1521,6 +1526,11 @@ metafile = true
 [[files]]
 file = "mods/notenoughitems-gtnh.pw.toml"
 hash = "a2fc13301e4c9bee524c9480d0c9cd2f8efa2b7d27343df9010454551148d215"
+metafile = true
+
+[[files]]
+file = "mods/numina.pw.toml"
+hash = "21aa3e50b4f6bbfba88cdb57db058b1bc1aaadc816ffe0304d64575868750340"
 metafile = true
 
 [[files]]
