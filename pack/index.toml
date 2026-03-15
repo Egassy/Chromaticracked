@@ -1439,6 +1439,11 @@ hash = "caa3d0023b08b8b7152c4bb76614d585651cd05aae263df31e4c672783f59363"
 metafile = true
 
 [[files]]
+file = "mods/extra-utilities.pw.toml"
+hash = "39b88923de98b9746b389a2ddbf728a4448b5e5b6ccce8b23d926096bd115627"
+metafile = true
+
+[[files]]
 file = "mods/flatsigns.pw.toml"
 hash = "bbe94c4fe907b30ba18ee81d84ad38d7ab091cdae7ef8a9a576cf4e98cfbd96a"
 metafile = true
