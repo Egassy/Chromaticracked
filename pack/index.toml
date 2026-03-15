@@ -1389,6 +1389,11 @@ hash = "6f9e7a79206d91973fbacd811c867522e677ec3bbb5a2a01574a21b6b24a1004"
 metafile = true
 
 [[files]]
+file = "mods/deep-resonance.pw.toml"
+hash = "7aade091b22438213696f006295afd6c69d3722e145d5baab594b23d7ea92877"
+metafile = true
+
+[[files]]
 file = "mods/dragonapi.pw.toml"
 hash = "0692772b07a0a4a778336bc47fdd8859136b275e2e24ee6bbf99ec8917ca1ca6"
 metafile = true
@@ -1396,6 +1401,11 @@ metafile = true
 [[files]]
 file = "mods/ears.pw.toml"
 hash = "9442cab9d8a6bf93eaaf900e1142683cb27d419d9a7eb250b169d6246cfc9f50"
+metafile = true
+
+[[files]]
+file = "mods/eleccore.pw.toml"
+hash = "d7e0baba06768a18ba8e2940e3964adcdd3c5fbea42c3589f3320e5a90e162f4"
 metafile = true
 
 [[files]]
@@ -1471,6 +1481,11 @@ metafile = true
 [[files]]
 file = "mods/malisisdoors.pw.toml"
 hash = "6d781cd762ff20876b2624930258c8a63ec8a9a0826005c973842201729faf25"
+metafile = true
+
+[[files]]
+file = "mods/mcjtylib.pw.toml"
+hash = "c141313cf04e807c762c1b8fe9ac8cd380a657b6f5c3f35bb0df0860b1b9b858"
 metafile = true
 
 [[files]]
