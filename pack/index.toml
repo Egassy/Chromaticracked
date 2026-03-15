@@ -1314,6 +1314,11 @@ hash = "348cdb59de511d7b3385418ceeaaf0332075d4e5edd9fd8f354f205c284bde3e"
 metafile = true
 
 [[files]]
+file = "mods/binnies-mods.pw.toml"
+hash = "e3fc8b37585af222fc0e53f4c609b5d7cb41583e052c42575eaba0b8c9299c15"
+metafile = true
+
+[[files]]
 file = "mods/buildcraft-compat.pw.toml"
 hash = "b851bd7c47045459512b79ef4d6a7ce64347c9f630dfbd6d5d05304afc7704a0"
 metafile = true
