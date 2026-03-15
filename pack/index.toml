@@ -1609,6 +1609,16 @@ hash = "1ce389a8d9488dd7d37490c1498d10412b7430b18cc0faa28f47afc9cf896b57"
 metafile = true
 
 [[files]]
+file = "mods/witchery.pw.toml"
+hash = "470e898ee9d795438bed629c7e5de4ae4d6eb608a685818d3c5460aa7b37a294"
+metafile = true
+
+[[files]]
+file = "mods/witcherypatch.pw.toml"
+hash = "88ed86eb523554228d5e34bbd316ff081f148400db0f281255493e69f81b4f61"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "9e245a84a817c077c5450708327b3e9959cf810004fd9a2735cd575678cd96ab"
 metafile = true
