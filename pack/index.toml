@@ -1309,6 +1309,16 @@ hash = "348cdb59de511d7b3385418ceeaaf0332075d4e5edd9fd8f354f205c284bde3e"
 metafile = true
 
 [[files]]
+file = "mods/buildcraft-compat.pw.toml"
+hash = "b851bd7c47045459512b79ef4d6a7ce64347c9f630dfbd6d5d05304afc7704a0"
+metafile = true
+
+[[files]]
+file = "mods/buildcraft.pw.toml"
+hash = "28825657e6a5260933662ff7e9e6cf81e562dc630a382fea77b23839556897e8"
+metafile = true
+
+[[files]]
 file = "mods/carpenters-blocks.pw.toml"
 hash = "a06f7789e0fd9aef2378f6000af1832e95407a0c854b30ba67d74d53a8146b8e"
 metafile = true

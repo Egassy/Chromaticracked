@@ -1,0 +1,13 @@
+name = "Buildcraft Compat"
+filename = "buildcraft-compat-7.1.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "82e6016362618a6d3187bb3629860185458e3603"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6240758
+project-id = 233140
