@@ -1459,6 +1459,11 @@ hash = "6d781cd762ff20876b2624930258c8a63ec8a9a0826005c973842201729faf25"
 metafile = true
 
 [[files]]
+file = "mods/minefactory-reloaded.pw.toml"
+hash = "07010584b084b6b3cf91fb7b29cbb0957d8d6e9def7df98bcb888e65db86c013"
+metafile = true
+
+[[files]]
 file = "mods/modtweaker.pw.toml"
 hash = "2efe15f652487360e8673eb80d8e565218c1bddbea5f4a22ae41a2fb8da7c675"
 metafile = true
