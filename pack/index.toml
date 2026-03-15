@@ -1394,6 +1394,11 @@ hash = "6f9e7a79206d91973fbacd811c867522e677ec3bbb5a2a01574a21b6b24a1004"
 metafile = true
 
 [[files]]
+file = "mods/darkcore.pw.toml"
+hash = "2af0f35a4b6936dd45e3ffe35ec777732c3f68a03451fe5769ec177d429173f7"
+metafile = true
+
+[[files]]
 file = "mods/deep-resonance.pw.toml"
 hash = "7aade091b22438213696f006295afd6c69d3722e145d5baab594b23d7ea92877"
 metafile = true
@@ -1551,6 +1556,11 @@ metafile = true
 [[files]]
 file = "mods/tails.pw.toml"
 hash = "3894f613ccd69834cafaad7c39816f35dc4af6e4deb91ed799a52e74a3fd129e"
+metafile = true
+
+[[files]]
+file = "mods/tardis-mod.pw.toml"
+hash = "549d81e68e9ffc1c09a9402e1bb3a5879d914757518017180dc12fb95a9f8ba6"
 metafile = true
 
 [[files]]
