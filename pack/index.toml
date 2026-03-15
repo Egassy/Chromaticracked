@@ -1319,6 +1319,11 @@ hash = "e3fc8b37585af222fc0e53f4c609b5d7cb41583e052c42575eaba0b8c9299c15"
 metafile = true
 
 [[files]]
+file = "mods/blood-magic.pw.toml"
+hash = "ab7684cbe71edd1b7e483316974e23535d14c2f9a01c0c7a1238d3ac45cfafcd"
+metafile = true
+
+[[files]]
 file = "mods/brandons-core.pw.toml"
 hash = "9313e9fc813284ef7df39b84b60716d4fb963961c623fd3061d7ce7e45330abd"
 metafile = true
@@ -1471,6 +1476,11 @@ metafile = true
 [[files]]
 file = "mods/geostrata.pw.toml"
 hash = "9d160dcc6d9f76ef9030c4602289a52f8e454d3af5cdaedcfa8fe8cedc66dfc7"
+metafile = true
+
+[[files]]
+file = "mods/guide-api.pw.toml"
+hash = "a04f87018e8805bb30cfcd0d9e21f986d1fa26f9d02d949e89584d192a1843f7"
 metafile = true
 
 [[files]]
