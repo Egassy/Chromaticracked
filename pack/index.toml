@@ -1304,6 +1304,11 @@ hash = "3673d86b434b902fc51d7c8eaf05d3bebb2676c8bfe5918ae7b9ce7d94b9cb3f"
 metafile = true
 
 [[files]]
+file = "mods/bibliocraft-bibliowoods-forestry-edition.pw.toml"
+hash = "9ca438431d23d623b3e4fff7df479a879d1bc8451f49715a4d5262d076ee8fbf"
+metafile = true
+
+[[files]]
 file = "mods/bibliocraft.pw.toml"
 hash = "348cdb59de511d7b3385418ceeaaf0332075d4e5edd9fd8f354f205c284bde3e"
 metafile = true
@@ -1406,6 +1411,11 @@ metafile = true
 [[files]]
 file = "mods/fluxed-core.pw.toml"
 hash = "529ad7219381a4fef9f3e07266edaa4d35d7c1fd2cf58ecd31626afc4a7db35b"
+metafile = true
+
+[[files]]
+file = "mods/forestry.pw.toml"
+hash = "e2a1810cc0353e445c9e210f82f355e49f9d440aec1165b94e1e0248f3b322da"
 metafile = true
 
 [[files]]
