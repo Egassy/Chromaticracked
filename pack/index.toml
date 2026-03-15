@@ -1319,6 +1319,11 @@ hash = "e3fc8b37585af222fc0e53f4c609b5d7cb41583e052c42575eaba0b8c9299c15"
 metafile = true
 
 [[files]]
+file = "mods/brandons-core.pw.toml"
+hash = "9313e9fc813284ef7df39b84b60716d4fb963961c623fd3061d7ce7e45330abd"
+metafile = true
+
+[[files]]
 file = "mods/buildcraft-compat.pw.toml"
 hash = "b851bd7c47045459512b79ef4d6a7ce64347c9f630dfbd6d5d05304afc7704a0"
 metafile = true
@@ -1391,6 +1396,11 @@ metafile = true
 [[files]]
 file = "mods/deep-resonance.pw.toml"
 hash = "7aade091b22438213696f006295afd6c69d3722e145d5baab594b23d7ea92877"
+metafile = true
+
+[[files]]
+file = "mods/draconic-evolution.pw.toml"
+hash = "47fe58c820956d00c310a4e76f0a4dd3c38c2d17e7b0ceedf9a8ff1faa97dbef"
 metafile = true
 
 [[files]]
