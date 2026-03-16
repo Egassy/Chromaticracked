@@ -1,0 +1,13 @@
+name = "Default Options"
+filename = "defaultkeys-mc1.7.10-1.0.28.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f0fc1ed633ab16e8d2bd48c8724c88afa0d704a9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2277197
+project-id = 232131
