@@ -1,6 +1,7 @@
 name = "Binnie's Mods"
 filename = "binnie-mods-1.7.10-2.0.20.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"
