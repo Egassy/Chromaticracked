@@ -1684,6 +1684,11 @@ hash = "ee7d201324b9b38613bc27f7ac51627b011aef3d588bf12c71c50783eb182e50"
 metafile = true
 
 [[files]]
+file = "mods/translocators.pw.toml"
+hash = "6723a9240fe479f6e1f0294d4995c00e8cbe95c91799292b31e6031b64f7240d"
+metafile = true
+
+[[files]]
 file = "mods/travellers-gear.pw.toml"
 hash = "e367867a41db355cccbeb50304a2929fd79c135f776599e299775e92dc81c57d"
 metafile = true
