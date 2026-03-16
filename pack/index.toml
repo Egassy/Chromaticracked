@@ -1534,6 +1534,11 @@ hash = "2c50747f13e11a1aff5f42179c3101156214bdcc5d30bd118deafdbbaabe3ef5"
 metafile = true
 
 [[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "9fdb47ec551d7019502d5c94dee80b3f45361cf2df6070fe93476513d1f1cefe"
+metafile = true
+
+[[files]]
 file = "mods/loottweaks.pw.toml"
 hash = "0de92009469be946b98dab3d9cb1b3b2fc931171680bfa84eeee73d495c22b04"
 metafile = true
