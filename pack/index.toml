@@ -1594,6 +1594,11 @@ hash = "f1b528464e00cc8849d3c4729485662cf1fcb36017b03def78bf360dfb0fc804"
 metafile = true
 
 [[files]]
+file = "mods/resource-loader.pw.toml"
+hash = "7138d783b24cafd013c434c8443b4fa9bb108d264cde2ffd4ca90c59077ebd79"
+metafile = true
+
+[[files]]
 file = "mods/rotarycraft.pw.toml"
 hash = "d70eea85e5d4de6addb4e8987990ddb021ca66b5b68f0457c991bf04693ee17c"
 metafile = true
