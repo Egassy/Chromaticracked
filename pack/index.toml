@@ -1604,6 +1604,11 @@ hash = "2c20b6e0c5b00d176127f5689f830a2cce8be840340e61cdbb9d988cc4bce544"
 metafile = true
 
 [[files]]
+file = "mods/modularui2.pw.toml"
+hash = "6ce6e2569ebfc4f66958f61b3071e4de4f97cb1a93fd5572057820be4fe42371"
+metafile = true
+
+[[files]]
 file = "mods/morpheus.pw.toml"
 hash = "35a7ab035b8194036d2b4ebefc2ec5cd6dfc8913aab9eb984cf54df39df26d1d"
 metafile = true
