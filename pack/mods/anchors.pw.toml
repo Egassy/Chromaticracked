@@ -1,0 +1,13 @@
+name = "Anchors"
+filename = "anchors-1.7.10-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e24e7e07dd0fd97133be88ad8a4a2df7f683f711"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2931486
+project-id = 376244

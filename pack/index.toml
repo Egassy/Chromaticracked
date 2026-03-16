@@ -1279,6 +1279,11 @@ hash = "10c8d064696a30271f4e841bb3f884b5219b5d32b6907c7b7a21b68a88bf63b6"
 metafile = true
 
 [[files]]
+file = "mods/anchors.pw.toml"
+hash = "2b4ce013881eb33a89770fa6ac39fd85f9c57fa2d5c249ecefdbfb853924d16a"
+metafile = true
+
+[[files]]
 file = "mods/applecore.pw.toml"
 hash = "a5836f08783eccabdf1f9fb42b5270b2cdd23dd8c1effba2ad6748da2b706f2d"
 metafile = true
