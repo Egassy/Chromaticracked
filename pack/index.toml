@@ -1369,6 +1369,11 @@ hash = "daf0ff4b3d079735e85b423ade2e4992a7c39c9892047808eac614e40fe7fb89"
 metafile = true
 
 [[files]]
+file = "mods/chromatifixes.pw.toml"
+hash = "41ee5d1e20c5720c1411cbe71253a30c66f78c3ff610775141cb263dc83a1c1b"
+metafile = true
+
+[[files]]
 file = "mods/clockwork-phase.pw.toml"
 hash = "4c1b847104b8e4e47637f06c299c71fe965204ade377dc5f0e6ca7946e2b8d58"
 metafile = true
