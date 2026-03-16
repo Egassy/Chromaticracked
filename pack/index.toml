@@ -1589,6 +1589,11 @@ hash = "2c20b6e0c5b00d176127f5689f830a2cce8be840340e61cdbb9d988cc4bce544"
 metafile = true
 
 [[files]]
+file = "mods/morpheus.pw.toml"
+hash = "35a7ab035b8194036d2b4ebefc2ec5cd6dfc8913aab9eb984cf54df39df26d1d"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "c849632fd2348967eb369eaecd93f65de371cd9110650f828f995a4929166ae3"
 metafile = true
