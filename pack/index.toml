@@ -1644,6 +1644,11 @@ hash = "a3299970edf8e816ecd80eb68009319cf1719e67d5e07155f354b2e3d6bc9ead"
 metafile = true
 
 [[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "ee7d201324b9b38613bc27f7ac51627b011aef3d588bf12c71c50783eb182e50"
+metafile = true
+
+[[files]]
 file = "mods/travellers-gear.pw.toml"
 hash = "e367867a41db355cccbeb50304a2929fd79c135f776599e299775e92dc81c57d"
 metafile = true
