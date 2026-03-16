@@ -1554,6 +1554,11 @@ hash = "9fdb47ec551d7019502d5c94dee80b3f45361cf2df6070fe93476513d1f1cefe"
 metafile = true
 
 [[files]]
+file = "mods/jabba.pw.toml"
+hash = "83833eaa0e5d4e07daad73dbe8c3d0cef3785c8fdd87089a563dc768247ea5d9"
+metafile = true
+
+[[files]]
 file = "mods/loottweaks.pw.toml"
 hash = "0de92009469be946b98dab3d9cb1b3b2fc931171680bfa84eeee73d495c22b04"
 metafile = true
