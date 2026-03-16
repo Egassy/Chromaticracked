@@ -1544,11 +1544,6 @@ hash = "d9f0ffbbc7e489a1729ea1db007cf589dc28495210a8640175dc415f26e2b65e"
 metafile = true
 
 [[files]]
-file = "mods/hodgepodge.pw.toml"
-hash = "82c51bfece45184d94192bbfb93d89290516c7911e279a824048d524e389b17f"
-metafile = true
-
-[[files]]
 file = "mods/ichunutil.pw.toml"
 hash = "9e973b867ed8fe486d21705ab9b73d133403c6a481ad118c78d3da5f3a0436c0"
 metafile = true
