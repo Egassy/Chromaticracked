@@ -1294,6 +1294,11 @@ hash = "6cd201c120e997b63fa4c42b5c829003d20ceac7a757b6ea88a6ba7bc2f0c3ff"
 metafile = true
 
 [[files]]
+file = "mods/automagy.pw.toml"
+hash = "d2ef0245eac12bb25282309c4f9f594a8898d0535cc9d17315a19de5de23d197"
+metafile = true
+
+[[files]]
 file = "mods/baubles.pw.toml"
 hash = "dcaa054cc8de3b6b10f4e7b35b1079e90983765348559761b0d357f8f5177856"
 metafile = true
@@ -1469,6 +1474,11 @@ hash = "529ad7219381a4fef9f3e07266edaa4d35d7c1fd2cf58ecd31626afc4a7db35b"
 metafile = true
 
 [[files]]
+file = "mods/forbidden-magic.pw.toml"
+hash = "100047ae847bc5ded978517d83f86b7d90166622eecc4b9721582145cd51d218"
+metafile = true
+
+[[files]]
 file = "mods/forestry.pw.toml"
 hash = "e2a1810cc0353e445c9e210f82f355e49f9d440aec1165b94e1e0248f3b322da"
 metafile = true
@@ -1599,6 +1609,11 @@ hash = "3894f613ccd69834cafaad7c39816f35dc4af6e4deb91ed799a52e74a3fd129e"
 metafile = true
 
 [[files]]
+file = "mods/tainted-magic.pw.toml"
+hash = "4389f4ae56e7ae294af85bc072b13245276ba9044ccd630c19ef5cfbc2703a66"
+metafile = true
+
+[[files]]
 file = "mods/tardis-mod.pw.toml"
 hash = "549d81e68e9ffc1c09a9402e1bb3a5879d914757518017180dc12fb95a9f8ba6"
 metafile = true
@@ -1611,6 +1626,16 @@ metafile = true
 [[files]]
 file = "mods/thaumcraft.pw.toml"
 hash = "f0b23db33db035ffb866e3f09a39dc7019a0de90fe32069bbc48df2ad9dc1a68"
+metafile = true
+
+[[files]]
+file = "mods/thaumic-horizons.pw.toml"
+hash = "a3299970edf8e816ecd80eb68009319cf1719e67d5e07155f354b2e3d6bc9ead"
+metafile = true
+
+[[files]]
+file = "mods/travellers-gear.pw.toml"
+hash = "e367867a41db355cccbeb50304a2929fd79c135f776599e299775e92dc81c57d"
 metafile = true
 
 [[files]]
@@ -1651,6 +1676,11 @@ metafile = true
 [[files]]
 file = "mods/witcherypatch.pw.toml"
 hash = "88ed86eb523554228d5e34bbd316ff081f148400db0f281255493e69f81b4f61"
+metafile = true
+
+[[files]]
+file = "mods/witching-gadgets.pw.toml"
+hash = "6cd1221de5da803dd806670b14bc35238fc1bc3207d41b3f114ed4e3bb7060d5"
 metafile = true
 
 [[files]]
