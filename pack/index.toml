@@ -1269,6 +1269,11 @@ file = "hats/Woodhat.tc2"
 hash = "dbffd43e0cdefce759e41ed8023f4725ace065962c03fadc76d43cbb566972fd"
 
 [[files]]
+file = "mods/adventure-backpack.pw.toml"
+hash = "10c8d064696a30271f4e841bb3f884b5219b5d32b6907c7b7a21b68a88bf63b6"
+metafile = true
+
+[[files]]
 file = "mods/applecore.pw.toml"
 hash = "a5836f08783eccabdf1f9fb42b5270b2cdd23dd8c1effba2ad6748da2b706f2d"
 metafile = true
