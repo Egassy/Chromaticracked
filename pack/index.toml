@@ -1289,6 +1289,16 @@ hash = "bae76665b3c31c817cefc60d050526a99231135a9171b39c3751266ec17bfd29"
 metafile = true
 
 [[files]]
+file = "mods/aspectrecipeindex.pw.toml"
+hash = "6cd201c120e997b63fa4c42b5c829003d20ceac7a757b6ea88a6ba7bc2f0c3ff"
+metafile = true
+
+[[files]]
+file = "mods/baubles.pw.toml"
+hash = "dcaa054cc8de3b6b10f4e7b35b1079e90983765348559761b0d357f8f5177856"
+metafile = true
+
+[[files]]
 file = "mods/better-questing-quest-book.pw.toml"
 hash = "c79b8e848c1b1df9314dc3181f72f4accc319cdea9239569cfbcb670ae3d821f"
 metafile = true
@@ -1479,6 +1489,11 @@ hash = "9d160dcc6d9f76ef9030c4602289a52f8e454d3af5cdaedcfa8fe8cedc66dfc7"
 metafile = true
 
 [[files]]
+file = "mods/gtnhlib.pw.toml"
+hash = "c80b96d9ebd945d46f9196a00ba037f2935f1f7da5f280714e2b0ae15b886521"
+metafile = true
+
+[[files]]
 file = "mods/guide-api.pw.toml"
 hash = "a04f87018e8805bb30cfcd0d9e21f986d1fa26f9d02d949e89584d192a1843f7"
 metafile = true
@@ -1569,6 +1584,11 @@ hash = "d70eea85e5d4de6addb4e8987990ddb021ca66b5b68f0457c991bf04693ee17c"
 metafile = true
 
 [[files]]
+file = "mods/salis-arcana.pw.toml"
+hash = "2af26f66eb5c87fe194e329f2b76c54d13febdd5ebf9208102cea9941a87b26b"
+metafile = true
+
+[[files]]
 file = "mods/skinport.pw.toml"
 hash = "79993b195eb166cd8a454a0d1e45403afd1119bf906d9a78c2616d0423d5356f"
 metafile = true
@@ -1584,8 +1604,23 @@ hash = "549d81e68e9ffc1c09a9402e1bb3a5879d914757518017180dc12fb95a9f8ba6"
 metafile = true
 
 [[files]]
+file = "mods/tc4tweaks.pw.toml"
+hash = "3b5ab4a0d072888afb084cade9cbff4e21fd18df7053a3f1ee81c8bc05443d7f"
+metafile = true
+
+[[files]]
+file = "mods/thaumcraft.pw.toml"
+hash = "f0b23db33db035ffb866e3f09a39dc7019a0de90fe32069bbc48df2ad9dc1a68"
+metafile = true
+
+[[files]]
 file = "mods/treeclimbing.pw.toml"
 hash = "ecc2f7e425e9ccfd2ab93fa3a3a875626434960cf270a2781f654346ad7ecab0"
+metafile = true
+
+[[files]]
+file = "mods/unimixins.pw.toml"
+hash = "cc8898129ee51fd830b4d0675966d6893bf082864ab70126f06d4cd159112158"
 metafile = true
 
 [[files]]
