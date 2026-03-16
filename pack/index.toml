@@ -1399,6 +1399,11 @@ hash = "8c400824e9a308fe87e5f61445c19b85bd7f8a5fd9bda2dbd2fa7324579e0164"
 metafile = true
 
 [[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "532832dfebefa96635d1567dbfa473795f63dd86af44e770f3a2f34d8c858193"
+metafile = true
+
+[[files]]
 file = "mods/condensedores.pw.toml"
 hash = "de0e0a03a58aed878a18c7238641dbfa9ae9d95e634a0f64e8add3802bad2b49"
 metafile = true
