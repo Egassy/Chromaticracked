@@ -1,0 +1,13 @@
+name = "Render Held Item While A Wolf - Witchery Addon"
+filename = "WolfItemRender-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "92d8862f6eb04c4863f838d452a2252e68645e2a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7264803
+project-id = 1390654

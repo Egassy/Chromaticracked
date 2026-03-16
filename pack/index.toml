@@ -1594,6 +1594,11 @@ hash = "f1b528464e00cc8849d3c4729485662cf1fcb36017b03def78bf360dfb0fc804"
 metafile = true
 
 [[files]]
+file = "mods/render-held-item-while-a-wolf-witchery-addon.pw.toml"
+hash = "775d99accbdf9eb6d63df74886f1c3e13f23b68629362376dcdfd69365efd172"
+metafile = true
+
+[[files]]
 file = "mods/resource-loader.pw.toml"
 hash = "7138d783b24cafd013c434c8443b4fa9bb108d264cde2ffd4ca90c59077ebd79"
 metafile = true
