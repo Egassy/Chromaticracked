@@ -1359,6 +1359,11 @@ hash = "9313e9fc813284ef7df39b84b60716d4fb963961c623fd3061d7ce7e45330abd"
 metafile = true
 
 [[files]]
+file = "mods/bugtorched-curseforged.pw.toml"
+hash = "1f893f34f13f0752c6145e10c52487c07a49353e14368281304f351a84220721"
+metafile = true
+
+[[files]]
 file = "mods/buildcraft-compat.pw.toml"
 hash = "b851bd7c47045459512b79ef4d6a7ce64347c9f630dfbd6d5d05304afc7704a0"
 metafile = true
@@ -1536,6 +1541,11 @@ metafile = true
 [[files]]
 file = "mods/hats.pw.toml"
 hash = "d9f0ffbbc7e489a1729ea1db007cf589dc28495210a8640175dc415f26e2b65e"
+metafile = true
+
+[[files]]
+file = "mods/hodgepodge.pw.toml"
+hash = "cf5dd7290601b9e2aa339fda4872411a02366292c889706581bd2e60468d6fdc"
 metafile = true
 
 [[files]]
