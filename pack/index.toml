@@ -1269,6 +1269,11 @@ file = "hats/Woodhat.tc2"
 hash = "dbffd43e0cdefce759e41ed8023f4725ace065962c03fadc76d43cbb566972fd"
 
 [[files]]
+file = "mods/adjachest-1-7-10.pw.toml"
+hash = "55ee4259256d9e464e14a61849fef08178bfe6f67855ccbb9ecfb4f1eb83a3b5"
+metafile = true
+
+[[files]]
 file = "mods/adventure-backpack.pw.toml"
 hash = "10c8d064696a30271f4e841bb3f884b5219b5d32b6907c7b7a21b68a88bf63b6"
 metafile = true
