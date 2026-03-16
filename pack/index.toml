@@ -1274,11 +1274,6 @@ hash = "55ee4259256d9e464e14a61849fef08178bfe6f67855ccbb9ecfb4f1eb83a3b5"
 metafile = true
 
 [[files]]
-file = "mods/adventure-backpack.pw.toml"
-hash = "10c8d064696a30271f4e841bb3f884b5219b5d32b6907c7b7a21b68a88bf63b6"
-metafile = true
-
-[[files]]
 file = "mods/anchors.pw.toml"
 hash = "2b4ce013881eb33a89770fa6ac39fd85f9c57fa2d5c249ecefdbfb853924d16a"
 metafile = true
@@ -1481,6 +1476,11 @@ metafile = true
 [[files]]
 file = "mods/electricraft.pw.toml"
 hash = "5f4cd762b33304a95b28ef969c7dbad44f48ff0446aa250510afa0a5dce6a288"
+metafile = true
+
+[[files]]
+file = "mods/ender-utilities.pw.toml"
+hash = "8b0fe4ab118116f6c363b18b3d540a8ae1fc35d99e10dc553fe8ec5b37035625"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Ender Utilities"
+filename = "enderutilities-1.7.10-0.5.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e14c413df5cf16a9f802e579ff86e1be7043b173"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2297555
+project-id = 224320
