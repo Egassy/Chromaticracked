@@ -9,4 +9,13 @@
 - TARDIS – Requires warp glass, try to see if a custom multiblock mod is possible
 	- The anti materialization block may be gotten earlier, perhaps with explosion shield or guardian stone
 	- Conversely, the landing pad should require a world rift
+	- Same with the grav lift
 - Unfuck Clockwork Phase’s textures
+- Change the colour of McJty GUIs to something more crystal themed
+- Maybe change the splash?
+- Custom TF opening item?
+
+# Chromaticracked to-do
+- Change Anchors fuelItem to other item - Spatially Warping Dust?
+- Encheapen JABBA recipes. Severely
+- Add Chromic Lexicon, RoC/ElC/ReC handbooks, bibliocraft books and other books to witchery bookshops
