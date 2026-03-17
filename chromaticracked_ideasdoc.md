@@ -14,18 +14,19 @@
 	- Add onto tardismod\textures\models\manual\ConsoleL.png` to give info about the temporal nametags
 	- Remove the blurb about needing jumpstarting from `tardismod\textures\models\manual\Battery.png`
 - Unfuck Clockwork Phase’s textures
-- Maybe change the splash?
+- Maybe change the opening splash?
 - Custom TF opening item?
 - Resourcepack better icons for ChC abilities
 - Configure condensedores
-- Add better drops to the Void Monster via loottweaks
+- Add better drops to the Void Monster
 - Add Sync and change Thorizons player infusion core to require a Sync core
-	- Also change Sync recipes of course
+	- Also change Sync recipes of course. Sync Core could be a (casting table recipe?) transformation core, boosted kurauri, argia shards and nature fiber?
 - Learn Deep Resonance so it can be balanced
+- Try to excise extra RoC compat ingots
+- Add BC schematics for all the structures
 
 # Chromaticracked to-do
-- Change Anchors fuelItem to other item - Spatially Warping Dust?
-	- Or maybe just get rid of it entirely and use the MFR chunk loader
+- Change Anchors fuelItem to other item - Spatially Rifting Powder?
 - Encheapen JABBA recipes. Severely
 - Change the colour of McJty GUIs to something more crystal themed
 - Add Chromic Lexicon, RoC/ElC/ReC handbooks, bibliocraft books and other books to witchery bookshops
@@ -40,3 +41,13 @@
 - Add ChC lighted leaves/logs to relevant oredict
 	- Possibly also make basic lighted planks/other wood blocks with Contenttweaker
 - Specify Void Monster dimensions
+- Add recipes for DE:
+	- Particle Generator
+	- Player Detector/Advanced
+	- Energy Relay/Advanced
+	- Energy Transciever/Advanced
+	- Wireless Energy Transciever/Advanced
+	- Flux Gate
+	- Fluid Gate
+	- Crystal Binder
+- Rename DE energy things to crystal

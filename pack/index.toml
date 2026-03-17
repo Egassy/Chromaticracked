@@ -1695,7 +1695,7 @@ metafile = true
 
 [[files]]
 file = "mods/tc4tweaks.pw.toml"
-hash = "3b5ab4a0d072888afb084cade9cbff4e21fd18df7053a3f1ee81c8bc05443d7f"
+hash = "34b1972888edca7f7eda956d4c4a0295787732009a8b46e4032d443c05fb5a28"
 metafile = true
 
 [[files]]
@@ -1705,7 +1705,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-horizons.pw.toml"
-hash = "a3299970edf8e816ecd80eb68009319cf1719e67d5e07155f354b2e3d6bc9ead"
+hash = "2faedcbc32938c6436d88336b6497886430e08f34cc39c1dd958b15d32d86d0d"
 metafile = true
 
 [[files]]

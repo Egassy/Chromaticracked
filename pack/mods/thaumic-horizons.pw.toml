@@ -1,13 +1,13 @@
 name = "Thaumic Horizons"
-filename = "ThaumicHorizons-1.8.11.jar"
+filename = "ThaumicHorizons-1.8.12.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2482e2dcf139e805a4f3ac75f8fdb9b9fadb4c4f"
+hash = "769a6ef87ff7909c408197decc1d0167369471de"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7544137
+file-id = 7769091
 project-id = 227914
