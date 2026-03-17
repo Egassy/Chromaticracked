@@ -1674,6 +1674,11 @@ hash = "79993b195eb166cd8a454a0d1e45403afd1119bf906d9a78c2616d0423d5356f"
 metafile = true
 
 [[files]]
+file = "mods/sync.pw.toml"
+hash = "cb82676e111ddf15d05701b14895c46d84d211af75ab443a116be062bb129c16"
+metafile = true
+
+[[files]]
 file = "mods/tails.pw.toml"
 hash = "3894f613ccd69834cafaad7c39816f35dc4af6e4deb91ed799a52e74a3fd129e"
 metafile = true
