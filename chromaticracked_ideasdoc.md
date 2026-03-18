@@ -25,7 +25,9 @@
 - Try to excise extra RoC compat ingots
 - Add BC schematics for all the structures
 
+
 # Chromaticracked to-do
+
 - Change Anchors fuelItem to other item - Spatially Rifting Powder?
 - Encheapen JABBA recipes. Severely
 - Change the colour of McJty GUIs to something more crystal themed
@@ -51,3 +53,11 @@
 	- Fluid Gate
 	- Crystal Binder
 - Rename DE energy things to crystal
+- Add ArchaicFix to fix https://github.com/GTNewHorizons/NotEnoughItems/issues/537
+
+# Qwest!
+
+- ChC quests, one chapter for each category of progression, except for endgame which can be split up into pre- and post-Proxima
+- Witchery quests - branching tree style, split "roots" for vampirism and lycanthropy. Sideline of hunterism I guess
+- Twilight forest side content quests, starting with a hidden auto-reward instacomplete metaquest that uses commands to grant full TF progression. Long Sheep
+- Thaumquests. Maybe. That's rather a lot and there's a great deal of disparate paths
