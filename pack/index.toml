@@ -1310,7 +1310,7 @@ metafile = true
 
 [[files]]
 file = "mods/aspectrecipeindex.pw.toml"
-hash = "6cd201c120e997b63fa4c42b5c829003d20ceac7a757b6ea88a6ba7bc2f0c3ff"
+hash = "bd50929488cb25938a3853d00ec42ae87c90afd32350c59c960600881e31b224"
 metafile = true
 
 [[files]]
@@ -1640,7 +1640,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems-gtnh.pw.toml"
-hash = "3452848205dc220661878453163592afdf83842ba5a437ba15053e234d7d89b5"
+hash = "a24f3f0ffb8a6c04cae1c46e83e10b436d18c384fab4ac40a75e394bd2ae5442"
 metafile = true
 
 [[files]]
