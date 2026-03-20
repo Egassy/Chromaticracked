@@ -52,7 +52,7 @@
 	- Flux Gate
 	- Fluid Gate
 	- Crystal Binder
-- Rename DE energy things to crystal
+- Rename DE energy things to crystal : DONE
 - Add ArchaicFix to fix https://github.com/GTNewHorizons/NotEnoughItems/issues/537
 
 # Qwest!
