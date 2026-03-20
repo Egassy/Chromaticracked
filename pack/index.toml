@@ -1309,11 +1309,6 @@ hash = "bae76665b3c31c817cefc60d050526a99231135a9171b39c3751266ec17bfd29"
 metafile = true
 
 [[files]]
-file = "mods/aspectrecipeindex.pw.toml"
-hash = "bd50929488cb25938a3853d00ec42ae87c90afd32350c59c960600881e31b224"
-metafile = true
-
-[[files]]
 file = "mods/automagy.pw.toml"
 hash = "d2ef0245eac12bb25282309c4f9f594a8898d0535cc9d17315a19de5de23d197"
 metafile = true
@@ -1544,11 +1539,6 @@ hash = "9d160dcc6d9f76ef9030c4602289a52f8e454d3af5cdaedcfa8fe8cedc66dfc7"
 metafile = true
 
 [[files]]
-file = "mods/gtnhlib.pw.toml"
-hash = "79be6f40aeae8857f4f319edebd8f894eebcb13b85cd07b036bc7497351fe249"
-metafile = true
-
-[[files]]
 file = "mods/guide-api.pw.toml"
 hash = "8b7f7f143872c5814ee04b839a412a84932965d17e59b785e15e770e1850dbe5"
 metafile = true
@@ -1566,11 +1556,6 @@ metafile = true
 [[files]]
 file = "mods/inpurecore.pw.toml"
 hash = "cbd2ae31ad4e16f11ea040b7d124fa0aa7dc2d3ae3808af0fb63443926aeabb3"
-metafile = true
-
-[[files]]
-file = "mods/inventorybogosorter.pw.toml"
-hash = "2c50747f13e11a1aff5f42179c3101156214bdcc5d30bd118deafdbbaabe3ef5"
 metafile = true
 
 [[files]]
@@ -1616,11 +1601,6 @@ metafile = true
 [[files]]
 file = "mods/modular-powersuits.pw.toml"
 hash = "2c20b6e0c5b00d176127f5689f830a2cce8be840340e61cdbb9d988cc4bce544"
-metafile = true
-
-[[files]]
-file = "mods/modularui2.pw.toml"
-hash = "6ce6e2569ebfc4f66958f61b3071e4de4f97cb1a93fd5572057820be4fe42371"
 metafile = true
 
 [[files]]
