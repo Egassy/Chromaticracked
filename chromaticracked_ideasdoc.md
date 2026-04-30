@@ -54,8 +54,8 @@
 	- Crystal Binder : DONE
 - Rename DE energy things to crystal : DONE
 - Add ArchaicFix to fix https://github.com/GTNewHorizons/NotEnoughItems/issues/537 : DONE
-- Make GeS not generate stone
-	- Add GeS stonetypes to chisel or add recipes for them
+- Make GeS not generate stone : DONE
+	- Add GeS stonetypes to chisel or add recipes for them : DONE
 
 # Qwest!
 

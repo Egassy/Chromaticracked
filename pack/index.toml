@@ -3239,7 +3239,7 @@ metafile = true
 
 [[files]]
 file = "mods/baubles-expanded-gtnh.pw.toml"
-hash = "6f88cadced3c15556c0a8e7fd028c55f0d3bf9414396c1dac0ad9cff667c34ff"
+hash = "402c24a04993d90ab42767129ce0ac9255368d5a466ad5df4a2eabdd82ae0c87"
 metafile = true
 
 [[files]]
@@ -3314,7 +3314,7 @@ metafile = true
 
 [[files]]
 file = "mods/chromatifixes.pw.toml"
-hash = "41ee5d1e20c5720c1411cbe71253a30c66f78c3ff610775141cb263dc83a1c1b"
+hash = "3c959e96145fb74633367c17f4df80b9edaaf17b8af9b9a906133256de49fc9c"
 metafile = true
 
 [[files]]
@@ -3544,7 +3544,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems-gtnh.pw.toml"
-hash = "a24f3f0ffb8a6c04cae1c46e83e10b436d18c384fab4ac40a75e394bd2ae5442"
+hash = "06762e20ea23b35b7f150f3b24725e48fb47f0fe66ad9456937f942ffaf723cf"
 metafile = true
 
 [[files]]
@@ -3614,7 +3614,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-horizons.pw.toml"
-hash = "2faedcbc32938c6436d88336b6497886430e08f34cc39c1dd958b15d32d86d0d"
+hash = "d76ccd163efae1bd7f4579e097715e2a85cc2c1813cb13eca00d25df9b1cf3c9"
 metafile = true
 
 [[files]]
@@ -3639,7 +3639,7 @@ metafile = true
 
 [[files]]
 file = "mods/unimixins.pw.toml"
-hash = "cc8898129ee51fd830b4d0675966d6893bf082864ab70126f06d4cd159112158"
+hash = "2cb73d0e114b1132088f60c4784f946a08e3c529ca6c29ada8105f34a895d5bd"
 metafile = true
 
 [[files]]
