@@ -1,10 +1,9 @@
 # Chromaticracked ideasdoc
 
-- Rename the Ender Dragon to “Gribgke, Scourge of the End” via both Minetweaker and a resourcepack
+- Rename the Ender Dragon to “Gribgke, Scourge of the End” via both Minetweaker and a resourcepack : DONE
 - Retexture, rerecipe and altogether change Modular Powersuits to be Chromaticraft armour using Luablock, Contenttweaker and Craftweaker
 	- Maybe use its own `config\machinemuse\recipes\mps-vanilla.recipes` to do so, for ones that use vanilla crafting?
-- Retheme RF to Resonant Flux (possibly other name?), a magical fluidic energy
-- Remove almost everything from Draconic Evolution except the power crystals
+- Retheme RF to Resonant Flux (possibly other name?), a magical fluidic energy 
 - Retheme AE2 to be more magical
 - Add a ChC recipe for the Flux Crystal – Resonanting Powder?
 - TARDIS – Requires warp glass, try to see if a custom multiblock mod is possible
@@ -28,32 +27,35 @@
 
 # Chromaticracked to-do
 
-- Change Anchors fuelItem to other item - Spatially Rifting Powder?
-- Encheapen JABBA recipes. Severely
+- Change Anchors texture and give recipe : DONE
+	- Make texture for Reality Anchor Core : DONE 
+- Encheapen JABBA recipes. Severely : DONE(?)
 - Change the colour of McJty GUIs to something more crystal themed
-- Add Chromic Lexicon, RoC/ElC/ReC handbooks, bibliocraft books and other books to witchery bookshops
-- Add all non full, tinted and tileentity blocks to BC facade blacklist
-- Blacklist and gate dimensions from the TARDIS
+- Add Chromic Lexicon, RoC/ElC/ReC handbooks, bibliocraft books and other books to witchery bookshops : DONE
+- Add all non full, tinted and tileentity blocks to BC facade blacklist : :hollow:
+- Blacklist and gate dimensions from the TARDIS : DONE
 	- Add recipes for TARDIS dimension keys
 - Remove most of DEs manual
-- Add other crops to Endercore's `cropConfig.json`
-- Add ChC dimension flares to the MFR spawner and capture blacklist
-- Add all but desired dimensions to MFR worldgen blacklist
-- Specify biomes for MFR lakes to spawn
-- Add ChC lighted leaves/logs to relevant oredict
-	- Possibly also make basic lighted planks/other wood blocks with Contenttweaker
-- Specify Void Monster dimensions
+- Remove almost everything from Draconic Evolution except the power crystals : DONE 
+- Add other crops to Endercores `cropConfig.json` : DONE
+- Add all but desired dimensions to MFR worldgen blacklist : DONE
+- Specify biomes for MFR lakes to spawn : DONE
+- Add ChC lighted leaves/logs to relevant oredict : DONE
+	- Possibly also make basic lighted planks/other wood blocks with Contenttweaker : ~~NOPE NO NOPE NO NO NO FUCK HELL NO~~ : Doing oak instead and using the custom blocks thing
+- Specify Void Monster dimensions : DONE
 - Add recipes for DE:
-	- Particle Generator
+	- Particle Generator : DONE
 	- Player Detector/Advanced
-	- Energy Relay/Advanced
-	- Energy Transciever/Advanced
-	- Wireless Energy Transciever/Advanced
-	- Flux Gate
-	- Fluid Gate
-	- Crystal Binder
+	- Energy Relay/Advanced : DONE
+	- Energy Transciever/Advanced : DONE
+	- Wireless Energy Transciever/Advanced : DONE
+	- Flux Gate : DONE
+	- Fluid Gate : DONE
+	- Crystal Binder : DONE
 - Rename DE energy things to crystal : DONE
-- Add ArchaicFix to fix https://github.com/GTNewHorizons/NotEnoughItems/issues/537
+- Add ArchaicFix to fix https://github.com/GTNewHorizons/NotEnoughItems/issues/537 : DONE
+- Make GeS not generate stone
+	- Add GeS stonetypes to chisel or add recipes for them
 
 # Qwest!
 

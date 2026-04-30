@@ -1,0 +1,357 @@
+{
+	type = "derelaybasic"
+	level = "basic"
+	recipe = {
+		shaped = true
+		input_top = "ChromatiCraft:chromaticraft_item_shard:11, ChromatiCraft:chromaticraft_item_tiered:5, ChromatiCraft:chromaticraft_item_shard:11"
+		input_middle = "ChromatiCraft:chromaticraft_item_tiered:1, ElectriCraft:electricraft_item_crystal, ChromatiCraft:chromaticraft_item_tiered:1"
+		input_bottom = "ChromatiCraft:chromaticraft_item_shard:11, ChromatiCraft:chromaticraft_item_tiered:5, ChromatiCraft:chromaticraft_item_shard:11"
+	}
+	output = "DraconicEvolution:energyCrystal:0*2"
+	output_tag = {
+	}
+}
+{
+	type = "derelayenhanced"
+	level = "multi"
+	recipe = {
+		center = "ChromatiCraft:chromaticraft_item_crafting:1"
+		items = {
+			{
+				item = "DraconicEvolution:energyCrystal:0"
+				x = 0
+				z = 2
+			}
+			{
+				item = "DraconicEvolution:energyCrystal:0"
+				x = 0
+				z = -2
+			}
+			{
+				item = "ChromatiCraft:chromaticraft_item_tiered:5"
+				x = 0
+				z = 4
+			}
+			{
+				item = "ChromatiCraft:chromaticraft_item_tiered:5"
+				x = 0
+				z = -4
+			}
+			{
+				item = "ChromatiCraft:chromaticraft_item_shard:21"
+				x = 2
+				z = 0
+			}
+			{
+				item = "ChromatiCraft:chromaticraft_item_shard:21"
+				x = -2
+				z = 0
+			}
+			{
+				item = "ChromatiCraft:chromaticraft_item_shard:27"
+				x = -2
+				z = 2
+			}
+			{
+				item = "ChromatiCraft:chromaticraft_item_shard:27"
+				x = -4
+				z = 4
+			}
+			{
+				item = "ChromatiCraft:chromaticraft_item_shard:27"
+				x = 2
+				z = 2
+			}
+			{
+				item = "ChromatiCraft:chromaticraft_item_shard:27"
+				x = 4
+				z = 4
+			}
+			{
+				item = "ChromatiCraft:chromaticraft_item_shard:27"
+				x = 2
+				z = -2
+			}
+			{
+				item = "ChromatiCraft:chromaticraft_item_shard:27"
+				x = 4
+				z = -4
+			}
+			{
+				item = "ChromatiCraft:chromaticraft_item_shard:27"
+				x = -2
+				z = -2
+			}
+			{
+				item = "ChromatiCraft:chromaticraft_item_shard:27"
+				x = -4
+				z = -4
+			}
+			
+		}
+	}
+	output = "DraconicEvolution:energyCrystal:1*2"
+	runes = {
+	{
+			x = 0
+			y = 0
+			z = 2
+			color = "purple"
+		}
+		{
+			x = 2
+			y = 0
+			z = -2
+			color = "yellow"
+		}
+		{
+			x = -2
+			y = 0
+			z = -2
+			color = "yellow"
+		}
+	}
+	progress = {
+		"energyidea"
+	}
+}
+{
+	type = "detransmission"
+	level = "rune"
+	recipe = {
+		shaped = true
+		input_top = "null, DraconicEvolution:energyCrystal:0, null"
+		input_middle = "BuildCraft|Silicon:laserBlock, ChromatiCraft:chromaticraft_item_placer:48, BuildCraft|Silicon:laserBlock"
+		input_bottom = "null, DraconicEvolution:energyCrystal:0, null"
+	}
+	output = "DraconicEvolution:energyCrystal:4"
+	runes = {
+		{
+			x = 1
+			y = 0
+			z = 3
+			color = "yellow"
+		}
+		{
+			x = -1
+			y = 0
+			z = -3
+			color = "lime"
+		}
+		{
+			x = -2
+			y = 0
+			z = -1
+			color = "purple"
+		}
+	}
+}
+{
+	type = "energyprism"
+	level = "multi"
+	recipe = {
+		center = "ChromatiCraft:chromaticraft_item_shard:20"
+		items = {
+			{
+				item = "ChromatiCraft:chromaticraft_item_lens:11"
+				x = 0
+				z = 2
+			}
+			{
+				item = "ChromatiCraft:chromaticraft_item_lens:11"
+				x = 2
+				z = -2
+			}
+			{
+				item = "ChromatiCraft:chromaticraft_item_lens:11"
+				x = -2
+				z = -2
+			}
+			{
+				item = "ChromatiCraft:chromaticraft_item_tiered:5"
+				x = -2
+				z = 2
+			}
+			{
+				item = "ChromatiCraft:chromaticraft_item_tiered:5"
+				x = 2
+				z = 2
+			}
+			{
+				item = "ChromatiCraft:chromaticraft_item_tiered:5"
+				x = 0
+				z = -2
+			}
+			
+			
+		}
+	}
+	output = "customthings:item:0"
+	runes = {
+		{
+			x = -3
+			y = 0
+			z = 0
+			color = "blue"
+		}
+		{
+			x = -1
+			y = 0
+			z = -3
+			color = "lime"
+		}
+	}
+	progress = {
+		"SHARDCHARGE"
+	}
+}
+{
+	type = "detransmissionenhanced"
+	level = "multi"
+	recipe = {
+		center = "customthings:item:0"
+		items = {
+			{
+				item = "DraconicEvolution:energyCrystal:1"
+				x = 0
+				z = 2
+			}
+			{
+				item = "DraconicEvolution:energyCrystal:1"
+				x = 0
+				z = -2
+			}
+			{
+				item = "ChromatiCraft:chromaticraft_item_tiered:5"
+				x = 0
+				z = 4
+			}
+			{
+				item = "ChromatiCraft:chromaticraft_item_tiered:5"
+				x = 0
+				z = -4
+			}
+			{
+				item = "ChromatiCraft:chromaticraft_item_shard:21"
+				x = 2
+				z = 0
+			}
+			{
+				item = "ChromatiCraft:chromaticraft_item_shard:21"
+				x = -2
+				z = 0
+			}
+			{
+				item = "ChromatiCraft:chromaticraft_item_shard:27"
+				x = -2
+				z = 2
+			}
+			{
+				item = "ChromatiCraft:chromaticraft_item_shard:27"
+				x = -4
+				z = 4
+			}
+			{
+				item = "ChromatiCraft:chromaticraft_item_shard:27"
+				x = 2
+				z = 2
+			}
+			{
+				item = "ChromatiCraft:chromaticraft_item_shard:27"
+				x = 4
+				z = 4
+			}
+			{
+				item = "ChromatiCraft:chromaticraft_item_shard:27"
+				x = 2
+				z = -2
+			}
+			{
+				item = "ChromatiCraft:chromaticraft_item_shard:27"
+				x = 4
+				z = -4
+			}
+			{
+				item = "ChromatiCraft:chromaticraft_item_shard:27"
+				x = -2
+				z = -2
+			}
+			{
+				item = "ChromatiCraft:chromaticraft_item_shard:27"
+				x = -4
+				z = -4
+			}
+			{
+				item = "ChromatiCraft:chromaticraft_item_crafting:26"
+				x = -4
+				z = 0
+			}
+			{
+				item = "ChromatiCraft:chromaticraft_item_crafting:26"
+				x = 4
+				z = 0
+			}
+			
+		}
+	}
+	output = "DraconicEvolution:energyCrystal:5*2"
+	runes = {
+		{
+			x = 1
+			y = 0
+			z = 3
+			color = "yellow"
+		}
+		{
+			x = -1
+			y = 0
+			z = -3
+			color = "lime"
+		}
+		{
+			x = -3
+			y = 0
+			z = 1
+			color = "purple"
+		}
+		{
+			x = 2
+			y = 0
+			z = 1
+			color = "purple"
+		}
+	}
+	progress = {
+		"ENERGYIDEA"
+		"SHARDCHARGE"
+	}
+}
+{
+	type = "derelaybasic_recombine"
+	level = "basic"
+	recipe = {
+		shaped = true
+		input_top = "null, DraconicEvolution:energyCrystal:2, null"
+		input_middle = "null, ChromatiCraft:chromaticraft_item_tiered:6, null"
+		input_bottom = "null, DraconicEvolution:energyCrystal:2, null"
+	}
+	output = "DraconicEvolution:energyCrystal:0"
+	output_tag = {
+	}
+}
+{
+	type = "derelayenhanced_recombine"
+	level = "basic"
+	recipe = {
+		shaped = true
+		input_top = "null, DraconicEvolution:energyCrystal:3, null"
+		input_middle = "null, ChromatiCraft:chromaticraft_item_tiered:6, null"
+		input_bottom = "null, DraconicEvolution:energyCrystal:3, null"
+	}
+	output = "DraconicEvolution:energyCrystal:1"
+	output_tag = {
+	}
+	progress = {
+		"energyidea"
+	}
+}

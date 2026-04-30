@@ -1,6 +1,6 @@
-6 — Proxima
-5 — Last Millenium
-4 — Spirit World
+5 — Proxima
+4 — Last Millenium
+3 — Spirit World
 2 — Twilight Forest
 1 — The End
 0 — Overworld
