@@ -3686,3 +3686,35 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "565b2f68688e8675875ba2ad4c989fa08527c2d074be359baeb641632763d41d"
 metafile = true
+
+[[files]]
+file = "scripts/MineTweakerRecipeMaker.zs"
+hash = "3b9daedac944e9cd2841448ddb8c4b3acb9167ae0e67bf4d64b4772f7d72ad2f"
+
+[[files]]
+file = "scripts/anchors.zs"
+hash = "316100068af6d5f8a6ef1cd0e3ec0d00874afb26705ad08be7f1511e54560e00"
+
+[[files]]
+file = "scripts/chiseloredict.zs"
+hash = "f50b595e5a477616ec071f84679929c1d91663519a8776f348896759be9a9d13"
+
+[[files]]
+file = "scripts/chromatioredict.zs"
+hash = "c2625ee55cca319603cb5f325c8b35162f911e62a3603f5f638db6a0a1a88dcd"
+
+[[files]]
+file = "scripts/geochisel.zs"
+hash = "888f36ba0beebdb4c49f6648657eba292a3210a8fe0009d2a4c5f1ecfc070219"
+
+[[files]]
+file = "scripts/jabba.zs"
+hash = "1eff2d7de76bf5db774aa7bdac89c149321931315d3d3e8f5e01f09f3fe0854b"
+
+[[files]]
+file = "scripts/miscremovalsandtweaks.zs"
+hash = "a4a358259e37bac9d62f40d2b876d5ed7dcb11937ed513ae297e4c2236121e99"
+
+[[files]]
+file = "scripts/neiremovals.zs"
+hash = "aefecf97675d2d8fd645328b74390128c9a236ca02da477e0ad20944ac851020"
