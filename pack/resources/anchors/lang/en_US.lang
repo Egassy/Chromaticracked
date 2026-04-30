@@ -1,0 +1,12 @@
+tile.anchors:blockWorldAnchor.name=Reality Anchor
+inventory.worldAnchor.name=Reality Anchor
+
+
+item.anchors:itemTritiumCell.name=Reality Anchoring Rod
+
+gui.workTime.text=Anchoring Time:
+
+key.chunkloading.category=Anchors
+key.chunkloading.view=Show loaded chunks
+
+lore.workTime.text=§7Anchoring time:

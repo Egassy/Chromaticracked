@@ -1,0 +1,39 @@
+tile.draconicevolution:energyCrystal0.name=Relay Crystal
+tile.draconicevolution:energyCrystal1.name=Enhanced Relay Crystal
+tile.draconicevolution:energyCrystal2.name=Transceiver Semicrystal
+tile.draconicevolution:energyCrystal3.name=Enhanced Transceiver Semicrystal
+tile.draconicevolution:energyCrystal4.name=Indirect Transmission Crystal
+tile.draconicevolution:energyCrystal5.name=Indirect Transmission Crystal
+
+item.draconicevolution:wrench.name=Crystal Binder
+
+//Energy Net
+msg.de.wrenchMode.bind.txt=Link
+msg.de.wrenchMode.unBind.txt=Unlink Individual
+msg.de.wrenchMode.unBindAll.txt=Unlink All
+msg.de.wrenchMode.modeSwitch.txt=Cycle Transceiver
+msg.de.rightClickUnbind.txt=Wave through air to unbind
+msg.de.boundTo.txt=Bound To
+msg.de.posSaved.txt=Crystal Saved
+msg.de.invalidTile.txt=Target Invalid
+msg.de.outOfRange.txt=Target out of range
+msg.de.maxConnections.txt=Connection limit reached
+msg.de.linked.txt=Devices Linked
+msg.de.unLinked.txt=Devices Unlinked
+msg.de.wrongSide.txt=Can not connect to that side of the target device
+
+info.de.modeIn.txt=Transmitting
+info.de.modeOut.txt=Recieving
+info.de.connections.txt=Crystal Connections
+info.de.wirelessConnections.txt=Indirect Connections
+
+//Achievements ----------------------------------------------------------------------------------------------------------------------------------------
+achievement.draconicevolution.manual=Crystalline Connectivity
+achievement.draconicevolution.manual.desc=Craft the Crystal Tablet
+
+
+//KeyBinding ----------------------------------------------------------------------------------------------------------------------------------------
+key.toolConfig=(DISABLED) Tool & Armor Config GUI
+key.toolProfileChange=(DISABLED) Change Tool Config Profile
+key.toggleFlight=(DISABLED) Toggle Creative Flight
+

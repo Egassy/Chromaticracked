@@ -3688,6 +3688,82 @@ hash = "565b2f68688e8675875ba2ad4c989fa08527c2d074be359baeb641632763d41d"
 metafile = true
 
 [[files]]
+file = "resources/anchors/lang/en_US.lang"
+hash = "33ccf0105df18359ffc39d19621c36bbfe7a3e2c1ee3d24a30d01db9bd618712"
+
+[[files]]
+file = "resources/anchors/textures/blocks/blockWorldAnchor.png"
+hash = "2a781b237e7b42b6737edea950aaebec380b3fee481f6896d327e7790b7bd2ed"
+
+[[files]]
+file = "resources/anchors/textures/blocks/blockWorldAnchor.png.mcmeta"
+hash = "cd29c75da852d7d7619632cf048f7e3880fdd3182a8ce4e05e9621fd17b9d7a7"
+
+[[files]]
+file = "resources/anchors/textures/items/itemTritiumCell.png"
+hash = "19a9bd134ed437ec9f8c930ad6dfe471a5d10186c39ba8858d756c00d7bdb080"
+
+[[files]]
+file = "resources/anchors/textures/items/itemTritiumCell.png.mcmeta"
+hash = "cd29c75da852d7d7619632cf048f7e3880fdd3182a8ce4e05e9621fd17b9d7a7"
+
+[[files]]
+file = "resources/customthings/lang/en_US.lang"
+hash = "030e30b0f0cd3273574a8a4b63490edf24711160f6a58e5df7efed8c409eda14"
+
+[[files]]
+file = "resources/customthings/textures/blocks/chromaticracked.lighted_planks.png"
+hash = "6731e16d899ccfa1bf68067b5550cc4547eacf8d334783c015267d6538780d2a"
+
+[[files]]
+file = "resources/customthings/textures/blocks/chromaticracked.lighted_planks.png.mcmeta"
+hash = "cd29c75da852d7d7619632cf048f7e3880fdd3182a8ce4e05e9621fd17b9d7a7"
+
+[[files]]
+file = "resources/customthings/textures/items/chromaticracked.energyprism.png"
+hash = "54304bfe5f07d4fefa0e37c40152ad393a6d9ed0d523149bcec41e29c4dd2626"
+
+[[files]]
+file = "resources/customthings/textures/items/chromaticracked.ranchore.png"
+hash = "5a76657cab6be08940f864d6c5ab1d70e29c3e1e6659d61b123010327addaf75"
+
+[[files]]
+file = "resources/customthings/textures/items/chromaticracked.ranchore.png.mcmeta"
+hash = "cd29c75da852d7d7619632cf048f7e3880fdd3182a8ce4e05e9621fd17b9d7a7"
+
+[[files]]
+file = "resources/draconicevolution/lang/en_US.lang"
+hash = "8dd3a27a0382804d5988c6bfab71161d72d473debeae752c42901511c936fa84"
+
+[[files]]
+file = "resources/jabba/lang/en_US.lang"
+hash = "b355580dc5487eded3130185c33aeb11dc960208a7e82ac8697206617c4332f3"
+
+[[files]]
+file = "resources/jabba/textures/items/coreupg_4.png"
+hash = "fb0a184c76a47d56826e9d64ae6319ac15fa256723137090a28addda4c294f2d"
+
+[[files]]
+file = "resources/jabba/textures/items/coreupg_5.png"
+hash = "9e545a49595d14de01cf88147453f104a4bc76df62006a6427e6ac68f6e0fe7c"
+
+[[files]]
+file = "resources/jabba/textures/items/coreupg_6.png"
+hash = "67d04a5a4bc4d915a24c8f817146bf59dc0feb7a316d01c52921d122c67e99e5"
+
+[[files]]
+file = "resources/jabba/textures/items/coreupg_8.png"
+hash = "32891aecca9ddbbd6d926faedd32c061c74ab971feffa8c5a43575f42e6e9950"
+
+[[files]]
+file = "resources/jabba/textures/items/coreupg_9.png"
+hash = "dd3fbc298450d4d68f88745beb2b686e145811103ac0606443b0f0abec20fb66"
+
+[[files]]
+file = "resources/minecraft/lang/en_US.lang"
+hash = "2957f73ff25d68212c2b4a66d16391c9e046a157cdd5a1925d347d55777f9b27"
+
+[[files]]
 file = "scripts/MineTweakerRecipeMaker.zs"
 hash = "3b9daedac944e9cd2841448ddb8c4b3acb9167ae0e67bf4d64b4772f7d72ad2f"
 
