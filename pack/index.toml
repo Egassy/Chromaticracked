@@ -553,10 +553,6 @@ file = "config/MouseTweaks.cfg"
 hash = "c9fed436b48202208e3a1bea374a481538dbb2fa2c6e29e77f1d2244540051c4"
 
 [[files]]
-file = "config/MouseTweaks.cfg.orig"
-hash = "ff562116e821929d1ab35a6b77ef9496f51003e1cdbcc107fd1853c6c8dfab3b"
-
-[[files]]
 file = "config/NEI/client.cfg"
 hash = "f836e665f150022d9e320e9f3204718eb2cacb78a786112555f0cc5597990ae7"
 
@@ -635,6 +631,10 @@ hash = "41638cd70a7a382424f042c5325cc4f1a5d9a19cb7797d0daca94326f981df10"
 [[files]]
 file = "config/Reika/ChromatiCraft_CustomRecipes/energycrystals.recipes_castingtable"
 hash = "f5e14b77637ee31b074d5f4b3a6f7f361917280289d51f248a2d45b257e7b216"
+
+[[files]]
+file = "config/Reika/ChromatiCraft_CustomRecipes/fluxcrystal.recipes_castingtable"
+hash = "66ac361b58909c4deb7fb091235292f540eeb5e3d704922370ad40bb577b2019"
 
 [[files]]
 file = "config/Reika/CondensedOres.cfg"
@@ -3789,7 +3789,7 @@ hash = "1eff2d7de76bf5db774aa7bdac89c149321931315d3d3e8f5e01f09f3fe0854b"
 
 [[files]]
 file = "scripts/miscremovalsandtweaks.zs"
-hash = "a4a358259e37bac9d62f40d2b876d5ed7dcb11937ed513ae297e4c2236121e99"
+hash = "2929fe674c3a5fff3bcdd66bd3b4551a0f06406dd9815b8540e492e78747c02e"
 
 [[files]]
 file = "scripts/neiremovals.zs"

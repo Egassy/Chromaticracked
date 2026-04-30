@@ -5,7 +5,7 @@
 	- Maybe use its own `config\machinemuse\recipes\mps-vanilla.recipes` to do so, for ones that use vanilla crafting?
 - Retheme RF to Resonant Flux (possibly other name?), a magical fluidic energy 
 - Retheme AE2 to be more magical
-- Add a ChC recipe for the Flux Crystal – Resonanting Powder?
+- Add a ChC recipe for the Flux Crystal : DONE
 - TARDIS – Requires warp glass, try to see if a custom multiblock mod is possible
 	- The anti materialization block may be gotten earlier, perhaps with explosion shield or guardian stone
 	- Conversely, the landing pad should require a world rift

@@ -1,0 +1,112 @@
+{
+	type = "fluxseed"
+	level = "multi"
+	recipe = {
+		center = "ElectriCraft:electricraft_item_crystal:5"
+		items = {
+			{
+				item = "ChromatiCraft:chromaticraft_item_tiered:5"
+				x = 2
+				z = 0
+			}
+			{
+				item = "ore:blockRedstone"
+				x = 2
+				z = -2
+			}
+			{
+				item = "ChromatiCraft:chromaticraft_item_tiered:5"
+				x = -0
+				z = -2
+			}
+			{
+				item = "ore:blockRedstone"
+				x = -2
+				z = -2
+			}
+			{
+				item = "ChromatiCraft:chromaticraft_item_tiered:5"
+				x = -2
+				z = -0
+			}
+			{
+				item = "ore:blockRedstone"
+				x = -2
+				z = 2
+			}
+			{
+				item = "ChromatiCraft:chromaticraft_item_tiered:5"
+				x = 0
+				z = 2
+			}
+			{
+				item = "ore:blockRedstone"
+				x = 2
+				z = 2
+			}
+			{
+				item = "GeoStrata:geostrata_block_glowcrys"
+				x = 0
+				z = 4
+			}
+			{
+				item = "GeoStrata:geostrata_block_glowcrys"
+				x = 4
+				z = 0
+			}
+			{
+				item = "GeoStrata:geostrata_block_glowcrys"
+				x = 0
+				z = -4
+			}
+			{
+				item = "GeoStrata:geostrata_block_glowcrys"
+				x = -4
+				z = 0
+			}
+			
+		}
+	}
+	output = "GeoStrata:geostrata_block_rfcrystalseed"
+	runes = {
+		{
+			x = 0
+			y = 1
+			z = -4
+			color = "yellow"
+		}
+		{
+			x = 1
+			y = 1
+			z = 4
+			color = "yellow"
+		}
+		{
+			x = -1
+			y = 1
+			z = 4
+			color = "yellow"
+		}
+		{
+			x = 0
+			y = 1
+			z = 2
+			color = "purple"
+		}
+		{
+			x = 2
+			y = 1
+			z = -3
+			color = "purple"
+		}
+		{
+			x = -5
+			y = 1
+			z = -3
+			color = "purple"
+		}
+	}
+	progress = {
+		"energyidea"
+	}
+}
