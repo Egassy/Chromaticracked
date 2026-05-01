@@ -1782,7 +1782,7 @@ hash = "dba677d2c31c2a72fda676cdf04aec4cd50f250fe43b7a1eb57753b1bfdb5c5c"
 
 [[files]]
 file = "config/gtnhlib.cfg"
-hash = "968642dfa5ef32384503005e702c8d3fbb4bc433a9661f9d111d56c30d9f122f"
+hash = "202c8c6d2766d26a3e5113eef3b8a300155f5912d195d6066aa452c551022596"
 
 [[files]]
 file = "config/iChunUtil.cfg"
@@ -3233,6 +3233,11 @@ hash = "bae76665b3c31c817cefc60d050526a99231135a9171b39c3751266ec17bfd29"
 metafile = true
 
 [[files]]
+file = "mods/aspectrecipeindex.pw.toml"
+hash = "99ff79f032bed621eae08b81382bc37d284b5764b905e64bb46dae0b248b01aa"
+metafile = true
+
+[[files]]
 file = "mods/automagy.pw.toml"
 hash = "d2ef0245eac12bb25282309c4f9f594a8898d0535cc9d17315a19de5de23d197"
 metafile = true
@@ -3463,6 +3468,11 @@ hash = "9d160dcc6d9f76ef9030c4602289a52f8e454d3af5cdaedcfa8fe8cedc66dfc7"
 metafile = true
 
 [[files]]
+file = "mods/gtnhlib.pw.toml"
+hash = "e18f2e110d060a9f2e9e1336f09c510f874f1340e0bd55cdaae1b1fea0b96ade"
+metafile = true
+
+[[files]]
 file = "mods/guide-api.pw.toml"
 hash = "8b7f7f143872c5814ee04b839a412a84932965d17e59b785e15e770e1850dbe5"
 metafile = true
@@ -3480,6 +3490,11 @@ metafile = true
 [[files]]
 file = "mods/inpurecore.pw.toml"
 hash = "cbd2ae31ad4e16f11ea040b7d124fa0aa7dc2d3ae3808af0fb63443926aeabb3"
+metafile = true
+
+[[files]]
+file = "mods/inventorybogosorter.pw.toml"
+hash = "1e4a5187fdd2d463d7cf9d800809f282447e6931defc109c95b2455747a76c7e"
 metafile = true
 
 [[files]]
@@ -3525,6 +3540,11 @@ metafile = true
 [[files]]
 file = "mods/modular-powersuits.pw.toml"
 hash = "2c20b6e0c5b00d176127f5689f830a2cce8be840340e61cdbb9d988cc4bce544"
+metafile = true
+
+[[files]]
+file = "mods/modularui2.pw.toml"
+hash = "ff13a00d65587d1d12473e6b72bfcca363aa0d5b60427dd9e71690540a063d9e"
 metafile = true
 
 [[files]]
