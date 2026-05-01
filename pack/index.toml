@@ -622,11 +622,11 @@ hash = "44a7f70dbf0b3aa8ddf22dbb18c89869f095a25ba042586312b26ee95ea4e694"
 
 [[files]]
 file = "config/Reika/CHROMATICRAFT_PackModifications.cfg"
-hash = "af87afebf22e712da5bf147b15ece733c8a9b5c34f7a9a87dc634aa8b23c11c4"
+hash = "b68a8554ee20781be6f05a7be2fb655e34bdfb5784e72b489d219ed66fdd6495"
 
 [[files]]
 file = "config/Reika/ChromatiCraft.cfg"
-hash = "41638cd70a7a382424f042c5325cc4f1a5d9a19cb7797d0daca94326f981df10"
+hash = "20b70bbef4ebd0a79f96f07304bc86f1ca224f6c36a0644287483cd37c801f61"
 
 [[files]]
 file = "config/Reika/ChromatiCraft_CustomRecipes/energycrystals.recipes_castingtable"
@@ -1302,7 +1302,7 @@ hash = "b4b5bcaa5c5f4b4f5ec804c22c74a33f9c6abcadd9d3a267e3f606cec1e10b81"
 
 [[files]]
 file = "config/bogosorter.cfg"
-hash = "9f4df263c92ba482eb5f439af2d48e749327967075e2d33bfd895dc2f3662f1c"
+hash = "8e4b947a287f44a5ae431b1e8aff2d33ed0fd43337cdc9433376b309e9473ef3"
 
 [[files]]
 file = "config/bogosorter/keybinds.json"
@@ -3782,10 +3782,6 @@ hash = "dd3fbc298450d4d68f88745beb2b686e145811103ac0606443b0f0abec20fb66"
 [[files]]
 file = "resources/minecraft/lang/en_US.lang"
 hash = "2957f73ff25d68212c2b4a66d16391c9e046a157cdd5a1925d347d55777f9b27"
-
-[[files]]
-file = "scripts/MineTweakerRecipeMaker.zs"
-hash = "3b9daedac944e9cd2841448ddb8c4b3acb9167ae0e67bf4d64b4772f7d72ad2f"
 
 [[files]]
 file = "scripts/anchors.zs"
